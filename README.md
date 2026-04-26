@@ -15,7 +15,7 @@ Tenho interesse em criar interfaces:
 * Responsivas
 * Centradas no usuário
 
-Atualmente, busco minha **primeira oportunidade na área**, onde eu possa evoluir e gerar impacto real com design.
+💡 Busco minha primeira oportunidade na área para aplicar meus conhecimentos e evoluir profissionalmente.
 
 ---
 
@@ -32,10 +32,35 @@ Atualmente, busco minha **primeira oportunidade na área**, onde eu possa evolui
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
+
+  <!-- Design -->
+
   <img align="center" alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+
+  <!-- Front-end básico -->
+
   <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+  <!-- Ferramentas -->
+
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  <!-- Conceitos -->
+
 </div>
+
+<br>
+
+* 🎨 UI Design (Figma)
+* 🧠 UX Design (Pesquisa, usabilidade e testes)
+* 🧱 Wireframes e prototipação (baixa e alta fidelidade)
+* 📐 Hierarquia visual e design de layouts
+* 🌐 HTML & CSS (estruturação e estilo)
+* 🔧 Versionamento com Git e GitHub
+* 🧭 Design centrado no usuário (User-Centered Design)
+* 📊 Noções de gerenciamento de projetos
 
 ---
 
@@ -80,25 +105,16 @@ Protótipo de aplicativo para organização de estudos
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Contato
 
 <div> 
-  <a href="mailto:lliviaferreiradesousa@gmail.com">
+  <a href="mailto:liviaferreiradesousa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/liviaferreira1528">
+  <a href="https://seu-portfolio.com">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/lívia-ferreira-design">
+  <a href="https://linkedin.com/in/seu-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
@@ -107,7 +123,7 @@ Protótipo de aplicativo para organização de estudos
 
 ## ✨ Objetivo
 
-Crescer como **UX/UI Designer**, criando experiências digitais que sejam simples, úteis e bem pensadas.
+Crescer como **UX/UI Designer**, criando experiências digitais simples, úteis e bem pensadas.
 
 ---
 
