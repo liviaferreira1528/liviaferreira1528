@@ -111,7 +111,7 @@ Protótipo de aplicativo para organização de estudos
   <a href="mailto:lliviaferreiradesousa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/liviaferreira1528
+  <a href="https://liviaferreira1528.github.io/portfoliolivia/
 ">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
