@@ -108,13 +108,14 @@ Protótipo de aplicativo para organização de estudos
 ## 📫 Contato
 
 <div> 
-  <a href="mailto:liviaferreiradesousa@gmail.com">
+  <a href="mailto:lliviaferreiradesousa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://seu-portfolio.com">
+  <a href="https://github.com/liviaferreira1528
+">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/seu-link">
+  <a href="www.linkedin.com/in/lívia-ferreira-design ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
